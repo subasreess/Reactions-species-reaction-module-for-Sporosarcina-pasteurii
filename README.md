@@ -1,0 +1,1 @@
+The prokaryotic module of reactive species reactions were constructed from the eukaryotic reactive species reactions which were based on the reactive species that are known to be present in Sporosarcina pasteurii
